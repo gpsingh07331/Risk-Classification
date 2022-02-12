@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "78910ced",
+   "id": "fcede084",
    "metadata": {},
    "source": [
     "### Risk classification using Supervised classification models.\n",
@@ -100,11 +100,9 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "d0a890a4",
+   "cell_type": "markdown",
+   "id": "50f36aa2",
    "metadata": {},
-   "outputs": [],
    "source": []
   }
  ],
